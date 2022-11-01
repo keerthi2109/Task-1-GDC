@@ -5,6 +5,8 @@ Features to be included inside portfolio:
 ● About section
 ● Projects sections
 ● Header and footer
-Installation of VSCode
-started a html file and live server
-tags: html, head, title, body, p, headers(6), ul, li, ol, div, span, br, hr
+	
+	Installation of VSCode
+	started a html file and live server
+tags: 
+html, head, title, body, p, headers(6), ul, li, ol, div, span, br, hr
